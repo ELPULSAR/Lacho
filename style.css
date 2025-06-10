@@ -13,10 +13,11 @@ header {
   background-color: #E60012;
 }
 .logo {
-  height: 122px;
-  max-height: 122px;
+  height: 52px;
+  max-height: 52px;
   width: auto;
 }
+
 nav a {
   color: white;
   margin: 0 1em;
